@@ -9,3 +9,5 @@ api-auth.http
 
 src/public/sass/style.css
 src/public/sass/style.css.map
+
+tsconfig.json
